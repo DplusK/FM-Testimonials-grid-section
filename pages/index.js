@@ -7,8 +7,8 @@ export default function Home() {
 	return (
 		<div className="bg-blue-background h-full w-full flex justify-center align-center">
 			<Head>
-				<title>Create Next App</title>
-				<link rel="icon" href="/favicon.ico" />
+				<title>Dplusk Frontend Mentor Testimonials Grid Section</title>
+				<link rel="icon" href="/public/favicon.ico" />
 			</Head>
 			{/* <style jsx global>{`
         body, #__next {
@@ -48,7 +48,7 @@ export default function Home() {
 						completing the course, I’ve successfully switched careers, working
 						as a Software Engineer at a VR startup. ”
 					</div>
-					<div className="absolute text-4xl right-10 lg:right-20 top-0 opacity-40 font-serif">
+					<div className="absolute text-4xl right-10 lg:right-20 top-0 opacity-40 quote">
 						“
 					</div>
 				</div>

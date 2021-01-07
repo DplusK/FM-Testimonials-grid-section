@@ -1,4 +1,4 @@
-html,
+/* html,
 body {
   padding: 0;
   margin: 0;
@@ -13,4 +13,19 @@ a {
 
 * {
   box-sizing: border-box;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&display=swap');
+
+body {
+  font-weight: 500;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+html,
+body,
+body > div:first-child,
+div#__next{
+  background-color:#EDF2F8;
+  height: 100%;
 }

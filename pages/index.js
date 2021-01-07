@@ -8,7 +8,7 @@ export default function Home() {
 		<div className="bg-blue-background h-full w-full flex justify-center align-center">
 			<Head>
 				<title>Dplusk Frontend Mentor Testimonials Grid Section</title>
-				<link rel="icon" href="/public/favicon.ico" />
+				<link rel="icon" href="/favicon.ico" />
 			</Head>
 			{/* <style jsx global>{`
         body, #__next {

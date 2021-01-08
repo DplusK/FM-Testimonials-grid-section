@@ -25,6 +25,7 @@ export default function Home() {
 								className="rounded-full "
 								src="/image-daniel.jpg"
 								alt="profile"
+								layout="intrinsic"
 								width="35"
 								height="35"
 							/>
@@ -60,6 +61,7 @@ export default function Home() {
 								className="rounded-full"
 								src="/image-jonathan.jpg"
 								alt="profile"
+								layout="intrinsic"
 								width="35"
 								height="35"
 							/>
@@ -86,6 +88,7 @@ export default function Home() {
 								className="rounded-full"
 								src="/image-kira.jpg"
 								alt="profile"
+								layout="intrinsic"
 								width="35"
 								height="35"
 							/>
@@ -121,6 +124,7 @@ export default function Home() {
 								className="rounded-full"
 								src="/image-jeanette.jpg"
 								alt="profile"
+								layout="intrinsic"
 								width="35"
 								height="35"
 							/>
@@ -146,6 +150,7 @@ export default function Home() {
 								className="rounded-full"
 								src="/image-patrick.jpg"
 								alt="profile"
+								layout="intrinsic"
 								width="35"
 								height="35"
 							/>
